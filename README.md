@@ -11,9 +11,10 @@ campaign activity patterns.
 - Campaign Behaviour — Volume trends, Pareto analysis, 
   campaign efficiency, consecutive months activity
 
-🔗 [View on Tableau Public](your-tableau-public-link-here)
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns/PerformanceOverviewDashboard?publish=yes)
 
 ![Dashboard Preview](tableau/performance_dashboard_preview.png)
+![Dashboard Preview](tableau/behaviour_dashboard_preview.png)
 
 ---
 
@@ -22,6 +23,6 @@ Single-page operational monitoring dashboard showing raw
 volume metrics (Impressions, Clicks, Conversions, Revenue)
 with totals, graphs and trend lines.
 
-🔗 [View on Tableau Public](your-tableau-public-link-here)
+🔗 [View on Tableau Public](https://public.tableau.com/app/profile/o.stra/viz/ad__campaigns/ExecutivePulseOverview?publish=yes)
 
 ![Dashboard Preview](tableau/pulse_dashboard_preview.png)
